@@ -1,1 +1,2 @@
-# polymer-testnet11
+# polymer-testnet
+
